@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>couchbase-server-community</id>
+    <version>5.0.0</version>
+    <title>Couchbase Server Community Edition</title>
+    <authors>Couchbase</authors>
+    <owners>CalvinAllen</owners>
+    <licenseUrl>http://www.couchbase.com/terms-of-service</licenseUrl>
+    <projectUrl>http://www.couchbase.com/</projectUrl>
+    <iconUrl>https://cdn.rawgit.com/CalvinAllen/ChocolateyPackages/9212e17a608b539002889403f67b77d805a23aed/couchbase-server-community/resources/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Couchbase Server is a simple, fast, elastic, open-source NoSQL database.</description>
+    <summary>Couchbase Server is a simple, fast, elastic, open-source NoSQL database.</summary>
+    <releaseNotes>Update package to latest version</releaseNotes>
+    <copyright />
+    <tags>couchbase membase memcached keyvaluestore caching admin unattended</tags>
+    <packageSourceUrl>https://github.com/calvinallen/couchbase-community-server-chocolatey-package</packageSourceUrl>
+    <dependencies>
+      <dependency id="autohotkey.portable" version="1.1.24.0" />
+    </dependencies>
+  </metadata>
+</package>
